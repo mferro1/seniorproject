@@ -1,0 +1,88 @@
+defaultApplianceList = [
+	{
+		name: 'Light Bulb',
+		watts: '60'
+	},
+	{
+		name: 'Refrigerator',
+		watts: '615',
+		gallons: '23'
+	},
+	{
+		name: 'Microwave',
+		watts: '1050'
+	},
+	{
+		name: 'Television',
+		watts: '140'
+	},
+	{
+		name: 'Ceiling fan',
+		watts: '75'
+	},
+	{
+		name: 'Clothes Dryer',
+		watts: '3600'
+	},
+	{
+		name: 'Desktop Computer',
+		watts: '200'
+	},
+	{
+		name: 'Dish Washer',
+		watts: '1450'
+	},
+	{
+		name: 'Electric Mower',
+		watts: '1500'
+	},
+	{
+		name: 'Blow Dryer',
+		watts: '1315'
+	},
+	{
+		name: 'Air Conditioner',
+		watts: '1080'
+	},
+	{
+		name: 'Iron',
+		watts: '1095'
+	},
+	{
+		name: 'Oven',
+		watts: '2540'
+	},
+	{
+		name: 'Toaster',
+		watts: '1080'
+	},
+	{
+		name: 'Vacuum Cleaner',
+		watts: '1010'
+	},
+	{
+		name: 'Washing Machine',
+		watts: '1275'
+	},
+	{
+		name: 'Coffee Machine',
+		watts: '1035'
+	},
+	{
+		name: 'Water Heater',
+		watts: '4530'
+	},
+	{
+		name: 'Portable Heater',
+		watts: '1560'
+	},
+	{
+		name: 'Electric Furnace',
+		watts: '11830'
+	},
+	{
+		name: 'Central Air Conditioner',
+		watts: '3830'
+	}
+	
+]
